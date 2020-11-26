@@ -1,4 +1,13 @@
-# Getting Started with Create React App
+# Goggle : own designed google API
+
+## Terms to Learn:
+
+1. Contxt API
+2. Material UI
+3. Google Custom Search API
+4. Own Hooks
+5. Firebase Setup and Hosting
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
